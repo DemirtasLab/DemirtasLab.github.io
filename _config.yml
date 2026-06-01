@@ -1,12 +1,16 @@
 title: Demirtaş Lab
-description: Cancer Metabolism Research Laboratory
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-architect
-header_pages:
-  - index.md
-  - research.md
-  - publications.md
-  - projects.md
-  - team.md
-  - contact.md
+description: Molecular Cancer Research Laboratory
+baseurl: ""
+url: "https://demirtaslab.github.io"
+
+theme: null
+
+markdown: kramdown
+
+include:
+  - _pages
+
+collections:
+  team:
+  publications:
+  projects:
