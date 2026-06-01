@@ -1,10 +1,3 @@
-# Navigation
-
-- [Research](/research/)
-- [Team](/team/)
-- [Publications](/publications/)
-- [Contact](/contact/)
-
 # Projects
 
 List your publications here.
