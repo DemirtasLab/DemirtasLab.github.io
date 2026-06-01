@@ -1,3 +1,8 @@
+---
+title: Research
+layout: default
+---
+
 # Research
 
 Our laboratory focuses on:
