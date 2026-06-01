@@ -1,40 +1,36 @@
-# Navigation
-
-- [Research Fields](research.md)
-- [Team](team.md)
-- [Projects](projects.md)
-- [Publications](publications.md)
-- [Contact](contact.md)
-
+---
+title: Demirtaş Lab
+layout: default
 ---
 
 # Demirtaş Lab
 
-## Molecular Cancer Research Laboratory
-
-Department of Medical Biochemistry  
-Faculty of Medicine, Istinye University
+## Molecular Cancer Research Laboratory  
+Istinye University Faculty of Medicine
 
 ---
 
-### Research Focus
-- Lipidomics and metabolomics (LC-MS/MS based)  
-- Targeted LC-MS/MS biomarker panels  
+### Focus Areas
 - Cancer metabolism and metabolic reprogramming  
+- Lipidomics & LC-MS/MS biomarker discovery  
 - Ferroptosis and redox biology  
 - Tumor microenvironment  
-- Translational cancer biomarker discovery  
+
+---
+
+### Methods Platform
+We use targeted and untargeted metabolomics approaches based on LC–MS/MS to investigate cancer metabolic reprogramming.
 
 ---
 
 ### Ongoing Projects
-- Cholangiocarcinoma metabolic rewiring
-- Metabolic effects on drug resistance 
-- Ferroptosis regulation in cancer lipidome  
-- Neonatal metabolomics 
+- Cholangiocarcinoma metabolic rewiring  
+- Drug resistance mechanisms in cancer  
+- Ferroptosis regulation in lipid metabolism  
+- Neonatal metabolomics (DBS profiling)  
 
 ---
 
 ### Contact
-Email: busra.demirtas@istinye.edu.tr  
-Lokasyon: Kağıthane, İstanbul, Türkiye  
+busra.demirtas@istinye.edu.tr  
+Istanbul, Türkiye
