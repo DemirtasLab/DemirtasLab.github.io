@@ -3,8 +3,6 @@ description: Molecular Cancer Research Laboratory
 baseurl: ""
 url: "https://demirtaslab.github.io"
 
-theme: null
-
 markdown: kramdown
 
 include:
