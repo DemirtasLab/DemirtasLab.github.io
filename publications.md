@@ -1,6 +1,16 @@
+---
+layout: default
+title: Publications
+---
+
 # Publications
 
-List your publications here.
+<div class="card mb-2 p-3">
+<b>Author et al.</b> (2025) Journal Name  
+DOI: xxxx
+</div>
 
-Example:
-- Author et al. (2025) Journal Name. DOI: xxx
+<div class="card mb-2 p-3">
+<b>Author et al.</b> (2024) Journal Name  
+DOI: xxxx
+</div>
