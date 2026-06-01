@@ -3,3 +3,9 @@ description: Cancer Metabolism Research Laboratory
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
+header_pages:
+  - index.md
+  - research.md
+  - team.md
+  - publications.md
+  - contact.md
