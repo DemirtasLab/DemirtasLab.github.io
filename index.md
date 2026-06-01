@@ -2,7 +2,7 @@
 
 - [Research Fields](research.md)
 - [Team](team.md)
-- [Projects] (projects.md)
+- [Projects](projects.md)
 - [Publications](publications.md)
 - [Contact](contact.md)
 
