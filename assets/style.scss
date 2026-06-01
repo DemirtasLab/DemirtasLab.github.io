@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Genel tipografi */
+body {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Ana container genişliği */
+.wrapper {
+  max-width: 1000px;
+}
+
+/* Başlıklar */
+h1, h2, h3 {
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+
+/* Linkler */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
