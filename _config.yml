@@ -6,6 +6,7 @@ theme: jekyll-theme-architect
 header_pages:
   - index.md
   - research.md
-  - team.md
   - publications.md
+  - projects.md
+  - team.md
   - contact.md
