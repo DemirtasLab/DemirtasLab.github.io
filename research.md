@@ -5,11 +5,11 @@ layout: default
 
 # Research
 
-Our laboratory focuses on:
+## Cancer Metabolism
+Metabolic rewiring in tumor progression and therapy resistance.
 
-- Cancer metabolism and metabolic reprogramming  
-- Lipidomics and ferroptosis pathways  
-- Tumor microenvironment interactions  
-- LC-MS/MS based biomarker discovery  
+## Lipidomics
+Role of lipid species in ferroptosis and redox signaling.
 
-Current approach integrates metabolomics and functional cancer biology.
+## Translational Metabolomics
+Biomarker discovery using LC-MS/MS platforms in clinical samples.
