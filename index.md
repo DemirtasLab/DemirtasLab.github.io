@@ -1,3 +1,12 @@
+# Navigation
+
+- [Research](research.md)
+- [Team](team.md)
+- [Publications](publications.md)
+- [Contact](contact.md)
+
+---
+
 # Demirtaş Lab
 
 ## Molecular Cancer Research Laboratory
