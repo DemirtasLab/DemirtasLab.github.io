@@ -11,10 +11,10 @@ Istinye University Faculty of Medicine
 
 ## Research Areas
 
-<div class="card">Cancer Metabolism</div>
-<div class="card">Lipidomics & LC-MS/MS</div>
-<div class="card">Ferroptosis Biology</div>
-<div class="card">Tumor Microenvironment</div>
+Cancer Metabolism
+Lipidomics & LC-MS/MS
+Ferroptosis Biology
+Tumor Microenvironment
 
 ---
 
