@@ -1,3 +1,8 @@
+---
+layout: default
+title: Projects
+---
+
 # Projects
 
 List your publications here.
