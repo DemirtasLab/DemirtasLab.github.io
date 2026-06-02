@@ -3,7 +3,7 @@ layout: default
 title: Team
 ---
 
-# Team
+# Team 
 
 <div class="row">
 
