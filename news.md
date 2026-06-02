@@ -3,7 +3,7 @@ layout: default
 title: Lab News
 ---
 
-#Lab News
+# Lab News
 Updates, grant acceptances, and conference presentations.
 
 Lab Update
