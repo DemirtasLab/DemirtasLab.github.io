@@ -1,14 +1,10 @@
 title: Demirtaş Lab
 description: Molecular Cancer Research Laboratory
-baseurl: ""
-url: "https://demirtaslab.github.io"
+theme: jekyll-theme-architect
 
-markdown: kramdown
-
-include:
-  - _pages
-
-collections:
-  team:
-  publications:
-  projects:
+header_pages:
+  - index.md
+  - research.md
+  - team.md
+  - publications.md
+  - contact.md
